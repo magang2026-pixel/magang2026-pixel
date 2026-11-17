@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TUTUT</h1>
+<h1 align="center">Hi 👋, we are interns</h1>
 <h3 align="center">Saya baru belajar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magang2026-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="magang2026-pixel" /> </p>
