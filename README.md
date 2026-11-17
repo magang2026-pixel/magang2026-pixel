@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magang2026-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="magang2026-pixel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magang2026-pixel" alt="magang2026-pixel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,11 +14,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://saweria.co/XychMc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/XychMc" /></a><a href="https://ko-fi.com/https://saweria.co/XychMc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://saweria.co/XychMc" /></a></p><br><br>
+<br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magang2026-pixel&show_icons=true&locale=en&layout=compact" alt="magang2026-pixel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magang2026-pixel&show_icons=true&locale=en" alt="magang2026-pixel" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magang2026-pixel&" alt="magang2026-pixel" /></p>
 
