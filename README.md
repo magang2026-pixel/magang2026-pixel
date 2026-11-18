@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://saweria.co/XychMc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/XychMc" /></a><a href="https://ko-fi.com/https://saweria.co/XychMc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://saweria.co/XychMc" /></a></p><br><br>
+<p><a href="https://saweria.co/XychMc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/XychMc" /></a><a href="https://saweria.co/XychMc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://saweria.co/XychMc" /></a></p><br><br>
 <br><br>
 
 
